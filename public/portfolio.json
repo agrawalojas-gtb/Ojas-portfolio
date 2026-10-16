@@ -5,7 +5,7 @@
   "about": "I am a computer science student passionate about web development and solving real-world problems.",
   "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
   "interests": ["Web development", "Open source", "Problem solving", "UI design"],
-  "profileImage": "/profile.png",
+  "profileImage": "WhatsApp Image 2026-10-16 at 11.32.44 AM.jpeg",
   "email": "agrawalojas14@gmail.com",
   "socials": {
     "github": "https://github.com/",
@@ -14,7 +14,7 @@
   "skills": [
     { "category": "Frontend", "items": ["HTML", "CSS", "JavaScript", "React.js"] },
     { "category": "Backend", "items": ["Node.js", "Express.js"] },
-    { "category": "Database", "items": ["MongoDB"] },
+    { "category": "Database", "items": ["MongoDB","Database Management System"] },
     { "category": "Tools", "items": ["Git", "GitHub"] }
   ],
   "projects": [
@@ -46,9 +46,9 @@
   "education": [
     {
       "degree": "Bachelor of Computer Applications",
-      "college": "ABC College",
+      "college": "Gl Bajaj institiute of Management",
       "year": "2026",
-      "description": "Studying programming and web development."
+      "description": "Studying programming language and web development."
     }
   ]
 }
